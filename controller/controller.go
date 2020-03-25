@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/labstack/echo"
+	"github.com/WarlordDev/utils/confstruct"
 
-	"bitbucket.org/warlorddevteam/utils/confstruct"
+	"github.com/labstack/echo"
 )
 
 //GetConf - return conf by app_name

@@ -1,7 +1,8 @@
 package router
 
 import (
-	"bitbucket.org/warlorddevteam/conf/controller"
+	"github.com/WarlordDev/configuration_service/controller"
+
 	"github.com/labstack/echo"
 )
 

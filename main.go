@@ -1,7 +1,7 @@
 package main
 
 import (
-	"bitbucket.org/warlorddevteam/conf/router"
+	"github.com/WarlordDev/configuration_service/router"
 	"github.com/labstack/echo"
 )
 
